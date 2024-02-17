@@ -1,36 +1,71 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Angela Li",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "liangela@mit.edu",
+    "phone": "",
+    "url": "https://angeli-13.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
     ]
   },
+  "education": [
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "location": "Cambridge, MA, USA",
+      "url": "",
+      "area": "Data Science",
+      "studyType": "Masters of Engineering",
+      "startDate": "Auguest 2024",
+      "endDate": "Present",
+      "courses": []
+    },
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "location": "Cambridge, MA, USA",
+      "url": "",
+      "area": "Computer Science, Data Science, Economics",
+      "studyType": "Bachelor of Science",
+      "startDate": "Auguest 2020",
+      "endDate": "May 2024",
+      "courses": []
+    }
+  ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Intuit, Inc",
+      "position": "Software Engineering Intern",
+      "url": "",
+      "startDate": "May 2023",
+      "endDate": "August 2024",
+      "summary": "Utilized advanced natural language processing (NLP) techniques and large language models (LLMs) for the in-depth analysis and interpretation of complex tax documents. Spearheaded the development and implementatio of real-time Spanish translation feature in TurboTax, utilizing NLP integration to enhance user accessibility and inclusivity.",
+      "highlights": ["Recognized as Top Talent"]
+    }, 
+    {
+      "name": "MIT Computer Science and Artificial Intelligence Lab (CSAIL)",
+      "position": "Undergraduate Researc Assistant (advised by Prof. Randall Davis)",
+      "url": "",
+      "startDate": "Jan 2021",
+      "endDate": "Dec 2022",
+      "summary": "",
+      "highlights": ["TIME Magazine's Best Inventions of 2021", "AI Cures Conference 2022"]
+    }, 
+    {
+      "name": "Intuit, Inc",
+      "position": "Software Engineering Intern",
+      "url": "",
+      "startDate": "May 2022",
+      "endDate": "August 2022",
+      "summary": "",
+      "highlights": ["Spotlight Award"]
     }
   ],
   "volunteer": [
@@ -44,26 +79,41 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Society Of Women Engineers Grace Hopper Conference Sponsorship Recipient",
+      "date": "2021",
+      "awarder": "Society Of Women Engineers",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "E. Lafayette and Etienette A. Quirin Scholarship Recipient",
+      "date": "2021-2023",
+      "awarder": "MIT",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "NCWIT Award for Aspirations in Computing",
+      "date": "2020",
+      "awarder": "National Center for Women & Information Technology",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Highest Score in the USA on Cambridge International CS Exam A-Level",
+      "date": "2019",
+      "awarder": "University of Cambridge",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "National Merit Scholarship Recipient",
+      "date": "2020",
+      "awarder": "National Merit Scholarship Corporation",
+      "url": "",
+      "summary": ""
     }
   ],
   "certificates": [
@@ -73,41 +123,6 @@
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -150,12 +165,12 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "Mandarin Chinese",
       "fluency": "Fluent",
       "icon": ""
     }
