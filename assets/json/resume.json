@@ -14,8 +14,7 @@
       "countryCode": "",
       "region": ""
     },
-    "profiles": [
-    ]
+    "profiles": []
   },
   "education": [
     {
@@ -24,7 +23,7 @@
       "url": "",
       "area": "Data Science",
       "studyType": "Masters of Engineering",
-      "startDate": "Auguest 2024",
+      "startDate": "Aug 2024",
       "endDate": "Present",
       "courses": []
     },
@@ -34,7 +33,7 @@
       "url": "",
       "area": "Computer Science, Data Science, Economics",
       "studyType": "Bachelor of Science",
-      "startDate": "Auguest 2020",
+      "startDate": "Aug 2020",
       "endDate": "May 2024",
       "courses": []
     }
@@ -45,10 +44,10 @@
       "position": "Software Engineering Intern",
       "url": "",
       "startDate": "May 2023",
-      "endDate": "August 2024",
+      "endDate": "Aug 2024",
       "summary": "Utilized advanced natural language processing (NLP) techniques and large language models (LLMs) for the in-depth analysis and interpretation of complex tax documents. Spearheaded the development and implementatio of real-time Spanish translation feature in TurboTax, utilizing NLP integration to enhance user accessibility and inclusivity.",
       "highlights": ["Recognized as Top Talent"]
-    }, 
+    },
     {
       "name": "MIT Computer Science and Artificial Intelligence Lab (CSAIL)",
       "position": "Undergraduate Researc Assistant (advised by Prof. Randall Davis)",
@@ -57,13 +56,13 @@
       "endDate": "Dec 2022",
       "summary": "",
       "highlights": ["TIME Magazine's Best Inventions of 2021", "AI Cures Conference 2022"]
-    }, 
+    },
     {
       "name": "Intuit, Inc",
       "position": "Software Engineering Intern",
       "url": "",
       "startDate": "May 2022",
-      "endDate": "August 2022",
+      "endDate": "Aug 2022",
       "summary": "",
       "highlights": ["Spotlight Award"]
     }
