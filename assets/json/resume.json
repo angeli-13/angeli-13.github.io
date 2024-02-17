@@ -31,8 +31,17 @@
       "institution": "Massachusetts Institute of Technology",
       "location": "Cambridge, MA",
       "url": "",
-      "area1": "Computer Science, Data Science, Economics",
-      "area2": "Business Analytics",
+      "area": "Computer Science, Data Science, Economics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2020",
+      "endDate": "2024",
+      "courses": []
+    },
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "location": "Cambridge, MA",
+      "url": "",
+      "area": "Business Analytics",
       "studyType": "Bachelor of Science",
       "startDate": "2020",
       "endDate": "2024",
@@ -51,7 +60,7 @@
     },
     {
       "name": "MIT Computer Science and Artificial Intelligence Lab (CSAIL)",
-      "position": "Undergraduate Researc Assistant (advised by Prof. Randall Davis)",
+      "position": "Undergraduate Research Assistant (advised by Prof. Randall Davis)",
       "url": "",
       "startDate": "1.2021",
       "endDate": "12.2022",
@@ -73,12 +82,14 @@
       "organization": "MIT EECS Department",
       "position": "Academic Associate Advisor to Daniel Huttenlocher",
       "url": "",
+      "summary": "",
       "highlights": []
     },
     {
       "organization": "MIT Undergraduate Economics Association Board",
       "position": "Treasurer, DEI Board Chair",
       "url": "",
+      "summary": "",
       "highlights": []
     },
     {
@@ -102,12 +113,20 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "VoiceBook @ HACKMIT",
+      "summary": "",
+      "highlights": ["Third Place Winner"],
+      "startDate": "9.2021",
+      "endDate": "9.2021",
+      "url": ""
+    },
+    {
+      "name": "ShopWhole @ VandyHacks Summer 2020 Hackathon",
+      "summary": "",
+      "highlights": ["First Place"],
+      "startDate": "7.2020",
+      "endDate": "7.2020",
+      "url": "https://devpost.com/software/shopwhole"
     }
   ],
   "awards": [
@@ -115,51 +134,36 @@
       "title": "Society Of Women Engineers Grace Hopper Conference Sponsorship Recipient",
       "date": "2021",
       "awarder": "Society Of Women Engineers",
-      "url": "",
+      "url": "https://ghc.anitab.org/",
       "summary": ""
     },
     {
       "title": "E. Lafayette and Etienette A. Quirin Scholarship Recipient",
       "date": "2023",
       "awarder": "MIT",
-      "url": "",
+      "url": "https://rd-stewardship.mit.edu/donor-info/QUIRI",
       "summary": ""
     },
     {
       "title": "NCWIT Award for Aspirations in Computing",
       "date": "2020",
       "awarder": "National Center for Women & Information Technology",
-      "url": "",
+      "url": "https://www.aspirations.org/award-programs/apply-for-the-award-for-aic",
       "summary": ""
     },
     {
       "title": "Highest Score in the USA on Cambridge International CS Exam A-Level",
       "date": "2019",
-      "awarder": "University of Cambridge",
-      "url": "",
+      "awarder": "Cambridge International Education",
+      "url": "https://www.cambridgeinternational.org/",
       "summary": ""
     },
     {
       "title": "National Merit Scholarship Recipient",
       "date": "2020",
       "awarder": "National Merit Scholarship Corporation",
-      "url": "",
+      "url": "https://www.nationalmerit.org/",
       "summary": ""
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
     }
   ],
   "languages": [
