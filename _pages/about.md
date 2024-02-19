@@ -21,5 +21,3 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Hi! I'm Angela, an undergraduate senior studying computer science, data science, and economics. I am passionate about the intersection of these fields, with a particular focus on machine learning, natural language processing, and optimization. I will be embarking on a Master's degree journey starting in September 2024.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
