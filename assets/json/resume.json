@@ -162,7 +162,7 @@
       "title": "National Merit Scholarship Recipient",
       "date": "2020",
       "awarder": "National Merit Scholarship Corporation",
-      "url": "https://www.nationalmerit.org/",
+      "url": "https://www.nationalmerit.org/s/1758/interior.aspx?sid=1758&gid=2&pgid=1879",
       "summary": ""
     }
   ],
@@ -178,18 +178,5 @@
       "icon": "中文"
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ]
+  "interests": []
 }
