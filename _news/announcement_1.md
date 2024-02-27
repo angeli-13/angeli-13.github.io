@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Accepted into the MIT MEng program! 
+Accepted into the MIT MEng program!

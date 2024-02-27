@@ -7,7 +7,7 @@ related_posts: false
 ---
 
 > During their visit, the students discussed how their knowledge of Chinese language and culture had enriched their lives and widened their views on different cultures.
-> 
+
 ---
 
 It was a pleasure to be invited to speak at the <a href="https://www.bostoncccc.org">Cambridge Center for Chinese Culture</a>. Not only was it a great opportunity to give back to the community, but I also learned a lot of new things. The students were so enthusiastic and I was impressed by their fluency. Through this event, I felt more connected to the Chinese community in the Cambridge area. 
@@ -22,4 +22,5 @@ It was a pleasure to be invited to speak at the <a href="https://www.bostoncccc.
 </div>
 
 ---
+
 MIT Global Languages News Post <a href="https://languages.mit.edu/fall-2022-news-highlights/#:~:text=Kang%20Zhou%E2%80%99s%20student%2C%20Angela%20Li%2C%20is%20sharing%20her%20experience%20of%20learning%20Chinese%20with%20students%20from%20the%20Cambridge%20Center%20for%20Chinese%20Culture.">here</a>
