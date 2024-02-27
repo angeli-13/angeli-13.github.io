@@ -13,7 +13,7 @@ profile:
     <p>MIT 2024</p>
     <p>liangela@mit.edu</p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 teaching: true
 selected_papers: false # includes a list of papers marked as "selected={true}"

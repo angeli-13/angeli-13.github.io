@@ -7,6 +7,8 @@ nav: true
 nav_order: 7
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+2022-2023 Teaching Assistant for <a href="https://web.mit.edu/15.053/www/">15.053 Optimization Methods</a>
+2023-2024 Teaching Assistant for <a href="https://web.mit.edu/15.053/www/">15.053 Optimization Methods</a>
 
-Organize your courses by years, topics, or universities, however you like!
+
+
