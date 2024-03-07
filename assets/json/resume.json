@@ -45,7 +45,7 @@
       "url": "",
       "startDate": "5.2023",
       "endDate": "8.2024",
-      "summary": "",
+      "summary": "Improving accessibility through the implementation of machine learning to offer TurboTax in Spanish.",
       "highlights": ["Recognized as Top Talent"]
     },
     {
@@ -54,7 +54,7 @@
       "url": "",
       "startDate": "1.2021",
       "endDate": "12.2022",
-      "summary": "",
+      "summary": "Utilizing machine learning to create a digital test that can easily and non-invasively detect early signs of Alzheimer's disease by analyzing patient handwriting.",
       "highlights": ["TIME Magazine's Best Inventions of 2021", "AI Cures Conference 2022"]
     },
     {
@@ -74,7 +74,7 @@
       "url": "",
       "startDate": "2022",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Advising a cohort of ~12 undergraduate students in the Schwarzman College of Computing department on their academic pursuits.",
       "highlights": []
     },
     {
@@ -93,6 +93,24 @@
       "startDate": "2021",
       "endDate": "2022",
       "summary": "",
+      "highlights": []
+    }, 
+    {
+      "organization": "Mildred C. Hailey Tenant Organization",
+      "position": "Student Volunteer",
+      "url": "",
+      "startDate": "2022",
+      "endDate": "2022",
+      "summary": "Developing a user-friendly website tailored for fair housing and tenants' rights activists to ensure easy navigation and accessibility.",
+      "highlights": []
+    },
+    {
+      "organization": "Massachusetts Nonprofit Network",
+      "position": "Student Volunteer",
+      "url": "",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Creating a tool to help aggregate information on available nonprofits in the state of Massachusetts",
       "highlights": []
     }
   ],
@@ -127,13 +145,6 @@
   ],
   "awards": [
     {
-      "title": "Society Of Women Engineers Grace Hopper Conference Sponsorship Recipient",
-      "date": "2021",
-      "awarder": "Society Of Women Engineers",
-      "url": "https://ghc.anitab.org/",
-      "summary": ""
-    },
-    {
       "title": "E. Lafayette and Etienette A. Quirin Scholarship Recipient",
       "date": "2023",
       "awarder": "MIT",
@@ -141,10 +152,17 @@
       "summary": ""
     },
     {
-      "title": "NCWIT Award for Aspirations in Computing",
+      "title": "Society Of Women Engineers Grace Hopper Conference Sponsorship Recipient",
+      "date": "2021",
+      "awarder": "Society Of Women Engineers",
+      "url": "https://ghc.anitab.org/",
+      "summary": ""
+    },
+    {
+      "title": "National Merit Scholarship Recipient",
       "date": "2020",
-      "awarder": "National Center for Women & Information Technology",
-      "url": "https://www.aspirations.org/award-programs/apply-for-the-award-for-aic",
+      "awarder": "National Merit Scholarship Corporation",
+      "url": "https://www.nationalmerit.org/s/1758/interior.aspx?sid=1758&gid=2&pgid=1879",
       "summary": ""
     },
     {
@@ -155,10 +173,10 @@
       "summary": ""
     },
     {
-      "title": "National Merit Scholarship Recipient",
-      "date": "2020",
-      "awarder": "National Merit Scholarship Corporation",
-      "url": "https://www.nationalmerit.org/s/1758/interior.aspx?sid=1758&gid=2&pgid=1879",
+      "title": "NCWIT Award for Aspirations in Computing",
+      "date": "2019",
+      "awarder": "National Center for Women & Information Technology",
+      "url": "https://www.aspirations.org/award-programs/apply-for-the-award-for-aic",
       "summary": ""
     }
   ],
