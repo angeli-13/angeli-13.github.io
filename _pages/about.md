@@ -20,4 +20,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Angela Li, a 4th year undergrad studying computer science, data science, and economics at MIT. I am passionate about the intersection of these fields, with a particular focus on machine learning, natural language processing, and optimization. I will be embarking on a Master's degree journey starting in September 2024.
+Hi! I'm Angela Li, a 1st year MEng in EECS at MIT. My research lies at the intersection of machine learning, natural language processing, and optimization. I am particularly interested in improving trustworthiness and reliability in AI systems through uncertainty-aware evaluation and developing techniques for reliable decision-making.
